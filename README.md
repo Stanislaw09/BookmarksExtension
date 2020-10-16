@@ -1,4 +1,4 @@
-## Bookmarks extension
+# Bookmarks extension
 
 ---
 
