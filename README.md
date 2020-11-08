@@ -2,7 +2,7 @@
 
 ---
 
-Chrome extension which allows to save bookmarks and quotes from visited websites. Created with React and Firebase after little adoption to chrome extension's standard's.
+Chrome extension which allows to save bookmarks and quotes from visited websites. Created with React and Firebase (in order to fully work, firebase should be replaced with chrome.storage) after little adoption to chrome extension's standard's.
 
 
 
@@ -10,7 +10,7 @@ Chrome extension which allows to save bookmarks and quotes from visited websites
 
 ---
 
-Extension can be downloaded from official chrome store [HERE](https://chrome.google.com/webstore/detail/bookmarks-manager/edkjmphnjejjmikmpiakkmlgkflebhgc?hl=en-GB&authuser=1) but due to some problems (app requires to be logged into chrome and having enabled sync) it has some difficulties to work properly in browser environment. Nonetheless the code is fully working and it's a good base for creating chrome extensions with React
+Extension can be downloaded from official chrome store [HERE](https://chrome.google.com/webstore/detail/bookmarks-manager/edkjmphnjejjmikmpiakkmlgkflebhgc?hl=en-GB&authuser=2) After using chrome.storage intead of firebase the code is fully working and it's a good base for creating chrome extensions with React.
 
 ![pages](./images/pagesView.png)
 
